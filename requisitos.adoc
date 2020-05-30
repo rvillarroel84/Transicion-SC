@@ -1,0 +1,14 @@
+== Transicion del los desarrollos a servicios contables
+
+
+Reuniones de 1 hr al dia para los siguientes puntos:
+
+1. Preparar una instalacion del sistema para un ambiente de desarrollo.
+2. Capacitacion funcional del sistema. Ejemplo: Como crear un Cliente o Proveedor, hacer una compra o venta, crear un asiento contable.
+3. Capacitacion estructura del sistema. Ejemplo: Como esta organizado en carpetas, lenguaje, frameworks, packages externos, pruebas unitarias, pruebas integrales).
+4. Capacitacion estructura de la Base de datos. Ejemplo: Diagrama de relaciones, llaves PK, FK, triguers, procedures
+5. Capacitacion extender/personalizar pantallas.
+
+Entregables:
+
+6. Documentacion tecnica del desarrollo del sistema en general, codigo fuente, base de datos, instaladores necesarios, etc.
