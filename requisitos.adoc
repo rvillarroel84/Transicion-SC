@@ -1,4 +1,4 @@
-== Transicion del los desarrollos a servicios contables
+== Proceso de Transicion del los sistemas de software a servicios contables
 
 
 Reuniones de 1 hr al dia para los siguientes puntos:
