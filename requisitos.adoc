@@ -11,4 +11,8 @@ Reuniones de 1 hr al dia para los siguientes puntos:
 
 Entregables:
 
-6. Documentacion tecnica del desarrollo del sistema en general, codigo fuente, base de datos, instaladores necesarios, etc.
+1. Documentacion tecnica del desarrollo del sistema en general.
+2. Documentacion para el usuario.
+2. Codigo fuente.
+3. Base de datos.
+4. Instaladores necesarios, etc.
