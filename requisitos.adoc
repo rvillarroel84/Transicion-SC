@@ -8,7 +8,7 @@ Reuniones de 1 hr al dia para los siguientes puntos:
 3. Capacitacion estructura del sistema. Ejemplo: Como esta organizado en carpetas, lenguaje, frameworks, packages externos, interfaces, pruebas unitarias, pruebas integrales).
 4. Capacitacion estructura de la Base de datos. Ejemplo: Diagrama de relaciones, llaves PK, FK, triguers, procedures
 5. Capacitacion extender/personalizar modulos y/o pantallas.
-6. Configuraciones necesarias para puesta en marcha con de empresa/sucursales ejemplo.
+6. Configuraciones necesarias para puesta en marcha con de empresa/sucursales/usuarios/responsabilidades ejemplos.
 
 Entregables:
 
