@@ -7,7 +7,7 @@ Reuniones de 1 hr al dia para los siguientes puntos:
 2. Capacitacion funcional del sistema. Ejemplo: Como crear un Cliente o Proveedor, hacer una compra o venta, crear asientos contables, Reportes.
 3. Capacitacion estructura del sistema. Ejemplo: Como esta organizado en carpetas, lenguaje, frameworks, packages externos, pruebas unitarias, pruebas integrales).
 4. Capacitacion estructura de la Base de datos. Ejemplo: Diagrama de relaciones, llaves PK, FK, triguers, procedures
-5. Capacitacion extender/personalizar pantallas.
+5. Capacitacion extender/personalizar modulos y/o pantallas.
 
 Entregables:
 
